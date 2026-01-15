@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Chau Gia Kiet!
 
-🎓 I’m a third-year **Data Science student** at **VNUHCM - University of Science**, majoring in **Mathematics & Computer Science**.
+🎓 I’m a final-year **Data Science student** at **VNUHCM - University of Science**, majoring in **Mathematics & Computer Science**.
 
 - 🌱 I’m currently learning: topics related to **Data Engineering** such as **ETL pipelines**, **data warehousing**, **Airflow**, and **Big Data tools** like **Spark** and **Kafka**.
 - 💬 Ask me about: **Python, C/C++, Java, SQL, Data Preprocessing**, **Machine Learning basics**, or or anything related to **EDA & data visualization**.
