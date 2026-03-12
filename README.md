@@ -1,9 +1,11 @@
 ## 👋 Hi there, I'm Chau Gia Kiet!
 
-🎓 I’m a final-year **Data Science student** at **VNUHCM - University of Science**, majoring in **Mathematics & Computer Science**.
+🎓 I’m a final-year **Data Science student** at **VNUHCM - University of Science**, majoring in **Mathematics & Computer Science**, with a strong interest in **Artificial Intelligence and Machine Learning**.
 
-- 🌱 I’m currently learning: topics related to **Data Engineering** such as **ETL pipelines**, **data warehousing**, **Airflow**, and **Big Data tools** like **Spark** and **Kafka**.
-- 💬 Ask me about: **Python, C/C++, Java, SQL, Data Preprocessing**, **Machine Learning basics**, or or anything related to **EDA & data visualization**.
+- I focus on **building machine learning models, working with data preprocessing, feature engineering, and model evaluation**.
+- Experienced in analyzing datasets and developing data-driven solutions using **Python**.
+- Interested in applying **AI techniques to real-world problems** and continuously improving both **technical** and **analytical skills**.
+- 💬 Ask me about: **Python, C/C++, Java, SQL, Data Preprocessing**, **Machine Learning**, **Deep Leaning**, or anything related to **EDA & data visualization**.
 - 📫 How to reach me: [chkiet253@gmail.com](mailto:chkiet253@gmail.com) | [LinkedIn](https://www.linkedin.com/in/kiet-chau-8b889931a/)
 
 
