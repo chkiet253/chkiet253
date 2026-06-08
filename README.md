@@ -15,6 +15,7 @@ I am an aspiring AI Engineer passionate about building scalable, production-read
 
 ---
 💬 Reach out to me for discussions on: **LLM engineering, RAG systems, Multi-Agent workflows, or Data Science projects.**
+
 📫 Email: [chkiet253@gmail.com](mailto:chkiet253@gmail.com)
 🔗 LinkedIn: [linkedin.com/in/kiet-chau-8b889931a/](https://www.linkedin.com/in/chkiet253)
 
