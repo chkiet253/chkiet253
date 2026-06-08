@@ -4,9 +4,9 @@
 I am an aspiring AI Engineer passionate about building scalable, production-ready Generative AI systems. My work bridges the gap between core Machine Learning research and practical software engineering, moving from high-level abstractions to native implementation.
 
 **Key Technical Focus:**
-- **GenAI & LLMs:** Designing RAG pipelines, building Multi-Agent architectures (Google A2A), and LLM orchestration.
-- **Deep Learning & ML:** Experience in fine-tuning models (YOLOv8) and developing custom training loops in PyTorch.
-- **Engineering:** Building data-driven AI services using FastAPI, WebSocket, and PostgreSQL.
+- **GenAI & LLMs:** Designing RAG pipelines, building Multi-Agent architectures, and LLM orchestration.
+- **Deep Learning & ML:** Experience in fine-tuning, benchmarking models and developing custom training loops in PyTorch.
+- **Engineering:** Building data-driven AI services using FastAPI, and many Databases.
 
 **Tech Stack:**
 - **Languages:** Python (Advanced), R, SQL, C/C++
