@@ -1,13 +1,22 @@
-## 👋 Hi there, I'm Chau Gia Kiet!
+### 🎓 Final-year Data Science Student @ VNUHCM - University of Science
+**Major:** Mathematics & Computer Science | **Focus:** AI & Machine Learning
 
-🎓 I’m a final-year **Data Science student** at **VNUHCM - University of Science**, majoring in **Mathematics & Computer Science**, with a strong interest in **Artificial Intelligence and Machine Learning**.
+I am an aspiring AI Engineer passionate about building scalable, production-ready Generative AI systems. My work bridges the gap between core Machine Learning research and practical software engineering, moving from high-level abstractions to native implementation.
 
-- I focus on **building machine learning models, working with data preprocessing, feature engineering, and model evaluation**.
-- Experienced in analyzing datasets and developing data-driven solutions using **Python**.
-- Interested in applying **AI techniques to real-world problems** and continuously improving both **technical** and **analytical skills**.
-- 💬 Ask me about: **Python, C/C++, Java, SQL, Data Preprocessing**, **Machine Learning**, **Deep Leaning**, or anything related to **EDA & data visualization**.
-- 📫 How to reach me: [chkiet253@gmail.com](mailto:chkiet253@gmail.com) | [LinkedIn](https://www.linkedin.com/in/kiet-chau-8b889931a/)
+**Key Technical Focus:**
+- **GenAI & LLMs:** Designing RAG pipelines, building Multi-Agent architectures (Google A2A), and LLM orchestration.
+- **Deep Learning & ML:** Experience in fine-tuning models (YOLOv8) and developing custom training loops in PyTorch.
+- **Engineering:** Building data-driven AI services using FastAPI, WebSocket, and PostgreSQL.
 
+**Tech Stack:**
+- **Languages:** Python (Advanced), R, SQL, C/C++
+- **AI/ML:** PyTorch, TensorFlow, Scikit-learn, LangChain/LangGraph, Hugging Face
+- **Tools & Infrastructure:** AWS, Docker, Git, Vector Databases (Qdrant, pgvector)
+
+---
+💬 Reach out to me for discussions on: **LLM engineering, RAG systems, Multi-Agent workflows, or Data Science projects.**
+📫 Email: [chkiet253@gmail.com](mailto:chkiet253@gmail.com)
+🔗 LinkedIn: [linkedin.com/in/kiet-chau-8b889931a/](https://www.linkedin.com/in/chkiet253)
 
 <!--
 **chkiet253/chkiet253** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
