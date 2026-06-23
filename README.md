@@ -1,7 +1,7 @@
 ### 🎓 Final-year Data Science Student @ VNUHCM - University of Science
 **Major:** Mathematics & Computer Science | **Focus:** AI & Machine Learning
 
-I am an aspiring AI Engineer passionate about building scalable, production-ready Generative AI systems. My work bridges the gap between core Machine Learning research and practical software engineering, moving from high-level abstractions to native implementation.
+I am an aspiring AI Engineer passionate about building scalable, production-ready AI application systems. My work bridges the gap between core Machine Learning research and practical software engineering, moving from high-level abstractions to native implementation.
 
 **Key Technical Focus:**
 - **GenAI & LLMs:** Designing RAG pipelines, building Multi-Agent architectures, and LLM orchestration.
