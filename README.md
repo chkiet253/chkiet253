@@ -1,10 +1,14 @@
 ### Execution
 
+### Execution
+
 🎓 **Final-year Data Science Student @ VNUHCM – University of Science**  
-**Mathematics & Computer Science | AI, Machine Learning & Agentic AI**
+**Mathematics & Computer Science | AI Engineer**
 
-Aspiring AI Engineer focused on building production-ready AI systems, including **RAG pipelines, Agentic AI, LLM orchestration, multi-agent workflows, and deep learning applications**.
+Experienced in **Agentic AI, multi-agent systems, RAG pipelines, LLM applications, and computer vision**, with a focus on building end-to-end AI solutions for real-world business problems.
 
-**Tech:** Python, SQL, C/C++, PyTorch, LangChain, LangGraph, Hugging Face, FastAPI, Docker, AWS, Qdrant, pgvector.
+**Tech:** Python, PyTorch, Transformers, REST APIs, SQL, Docker, Git.
+
+**Tech:** Python, SQL, C/C++, PyTorch, LangChain, LangGraph, Hugging Face, Transformers, FastAPI, Docker, AWS, Qdrant, Git.
 
 📫 [Email](mailto:chkiet253@gmail.com) · 🔗 [LinkedIn](https://www.linkedin.com/in/chkiet253)
