@@ -1,8 +1,6 @@
-### Execution
+Hello, I'm Chau Gia Kiet 👋
 
-### Execution
-
-🎓 **Final-year Data Science Student @ VNUHCM – University of Science**  
+🎓 **Data Science Student @ VNUHCM – University of Science**  
 **Mathematics & Computer Science | AI Engineer**
 
 Experienced in **Agentic AI, multi-agent systems, RAG pipelines, LLM applications, and computer vision**, with a focus on building end-to-end AI solutions for real-world business problems.
